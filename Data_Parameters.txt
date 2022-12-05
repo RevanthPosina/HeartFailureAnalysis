@@ -1,1 +1,0 @@
-{"Age":23,"Sex":0,"CP":2,"R_BP":120,"SC":145,"R_ECG":2,"MAX_HR":129,"EX_IA":0,"ST_DEP":0,"P_EX":0,"VF":0,"THAL":0,"F_BS":0}
